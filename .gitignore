@@ -1,0 +1,16 @@
+
+Debug/cutSphereMove.exe
+Debug/mwArcFunction.obj
+PointVisualizer_readme.txt
+Debug/XY_Layer.obj
+PointVisualizer_linux64
+*.idb
+*.obj
+*.tlog
+*.exe
+*.log
+Debug/cutSphereMove.pdb
+Debug/cutSphereMove.vcxproj.FileListAbsolute.txt
+Debug/vc142.pdb
+test_task.pdf
+test_task.pro
